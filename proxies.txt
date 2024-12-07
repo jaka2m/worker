@@ -1,14 +1,1 @@
 194.60.135.188,443,NL,Servers Tech Fzco
-212.16.94.12,443,NL,Azma Group
-146.0.76.34,443,NL,Hostkey
-93.185.163.186,3203,DE,dataforest
-93.185.163.186,3208,DE,dataforest
-93.185.163.186,3205,DE,dataforest
-93.185.163.186,5001,DE,dataforest
-93.185.163.186,15002,DE,dataforest
-93.185.163.186,5002,DE,dataforest
-89.110.69.244,443,NL,Servers Tech Fzco
-89.110.115.110,8443,NL,Servers Tech Fzco
-93.185.163.186,3105,DE,dataforest
-77.238.237.179,443,NL,Servers Tech Fzco
-89.110.84.203,443,NL,Servers Tech Fzc
