@@ -1,550 +1,286 @@
-45.144.49.128,443,PL,Newserverlife
-51.83.193.204,443,FR,OVHcloud
-176.116.200.147,11357,PL,Wadowicenet Sp Z O O
-45.85.210.63,23488,PL,IVENDO sp z oo
-91.235.21.209,28657,PL,AirCity Krzysztof Janukowicz
-45.85.210.37,37215,PL,IVENDO sp z oo
-176.100.198.165,11025,PL,Studio WIK Sp z oo
-176.100.195.193,23919,PL,Studio WIK Sp z oo
-89.22.210.249,11215,PL,Wadowicenet Sp Z O O
-193.42.240.51,11663,PL,Studio WIK Sp z oo
-193.42.240.66,27236,PL,Studio WIK Sp z oo
-193.42.240.51,21087,PL,Studio WIK Sp z oo
-193.42.240.51,28693,PL,Studio WIK Sp z oo
-91.123.181.34,10678,PL,Firma Handlowa Giga Arkadiusz Kocma
-91.198.166.115,2053,PL,Podaon SIA
-91.198.166.115,2083,PL,Podaon SIA
-45.131.183.225,443,PL,Podaon SIA
-176.100.195.54,12899,PL,Studio WIK Sp z oo
-89.25.158.146,12751,PL,Play
-89.25.158.146,23512,PL,Play
-89.25.175.212,29725,PL,ALKOM Sp z oo
-81.163.201.254,32897,PL,ITB Sp z oo
-185.239.41.89,31039,PL,NEXET Sp z o o
-185.172.242.139,14088,PL,cnet24pl
-185.239.41.89,34647,PL,NEXET Sp z o o
-91.123.183.163,28183,PL,Firma Handlowa Giga Arkadiusz Kocma
-145.239.90.225,443,PL,OVHcloud
-146.59.14.96,443,PL,OVHcloud
-91.123.183.163,38171,PL,Firma Handlowa Giga Arkadiusz Kocma
-81.163.201.254,16312,PL,ITB Sp z oo
-46.149.213.81,15053,PL,AP-MEDIA Spolka z ograniczona odpowiedzalnoscia
-83.218.125.236,10102,PL,Regionalna Telewizja Kablowa Spolka Jawna LIwansk
-91.123.183.165,31301,PL,Firma Handlowa Giga Arkadiusz Kocma
-91.149.253.190,443,PL,Baxet Group Inc
-51.75.56.29,443,GB,OVHcloud
-188.117.143.124,13160,PL,ALKOM Sp z oo
-188.117.143.124,22894,PL,ALKOM Sp z oo
-188.117.143.124,23684,PL,ALKOM Sp z oo
-51.83.224.63,2053,PL,OVHcloud
-193.42.243.134,31779,PL,Studio WIK Sp z oo
-193.42.243.134,38767,PL,Studio WIK Sp z oo
-194.1.246.19,10995,PL,OTC
-194.1.246.19,38298,PL,OTC
-81.163.205.221,39097,PL,ITB Sp z oo
-45.141.0.248,2083,PL,Remote Admin Sp Z oo
-91.193.18.110,443,PL,HZ Hosting
-37.131.174.86,32648,PL,Komputerowe Studio Grafiki Wojciech Lis
-193.43.229.69,11838,PL,FHU Komnet Grzegorz Poltorak
-89.25.215.232,30126,PL,ALKOM Sp z oo
-185.174.114.98,12795,PL,Studio WIK Sp z oo
-45.82.255.141,443,CY,Stark Industries Solutions
-193.42.241.90,10261,PL,Studio WIK Sp z oo
-45.85.211.48,27629,PL,IVENDO sp z oo
-89.22.210.239,12551,PL,Wadowicenet Sp Z O O
-51.38.156.100,2095,US,OVHcloud
-51.38.156.100,8443,US,OVHcloud
-51.38.156.100,8880,US,OVHcloud
-89.25.215.166,11649,PL,ALKOM Sp z oo
-89.25.215.166,15413,PL,ALKOM Sp z oo
-89.25.175.164,27221,PL,ALKOM Sp z oo
-91.239.148.53,443,PL,SERVA ONE LTD
-91.239.148.53,42053,PL,SERVA ONE LTD
-45.85.210.234,11608,PL,IVENDO sp z oo
-193.42.243.87,23425,PL,Studio WIK Sp z oo
-185.215.74.31,21324,PL,OTC
-145.239.18.192,443,GB,OVHcloud
-176.107.131.31,443,PL,Aruba Networks
-185.174.114.158,10706,PL,Studio WIK Sp z oo
-185.174.114.158,28240,PL,Studio WIK Sp z oo
-185.174.114.158,32959,PL,Studio WIK Sp z oo
-193.42.242.165,21035,PL,Studio WIK Sp z oo
-45.85.210.193,32927,PL,IVENDO sp z oo
-193.108.127.128,21450,PL,OTC
-37.233.102.53,443,PL,Techstorage sp z oo
-46.45.65.16,15874,PL,Aves Sp z oo
-91.239.148.100,443,PL,SERVA ONE LTD
-185.172.241.197,17664,PL,cnet24pl
-38.180.51.120,443,PL,Artnet Sp z oo
-185.174.115.44,36042,PL,Studio WIK Sp z oo
-91.123.181.8,10480,PL,Firma Handlowa Giga Arkadiusz Kocma
-193.42.240.161,29862,PL,Studio WIK Sp z oo
-155.133.113.5,15670,PL,iNET Media group
-185.215.74.144,35959,PL,OTC
-45.85.211.89,23447,PL,IVENDO sp z oo
-89.25.215.166,25637,PL,ALKOM Sp z oo
-193.42.242.48,26823,PL,Studio WIK Sp z oo
-188.225.60.50,443,PL,TimeWeb
-185.135.122.207,39633,PL,Laguna sp z oo
-193.124.41.74,443,PL,Baxet Group Inc
-91.239.148.182,443,PL,SERVA ONE LTD
-89.22.212.65,12641,PL,Wadowicenet Sp Z O O
-188.116.40.37,443,PL,Artnet Sp z oo
-45.85.210.9,31380,PL,IVENDO sp z oo
-89.25.215.140,20618,PL,ALKOM Sp z oo
-85.14.112.198,19929,PL,ALKOM Sp z oo
-91.219.114.133,16245,PL,Firma Handlowa Giga Arkadiusz Kocma
-85.14.112.198,34861,PL,ALKOM Sp z oo
-91.123.183.97,10448,PL,Firma Handlowa Giga Arkadiusz Kocma
-176.100.197.59,19510,PL,Studio WIK Sp z oo
-193.42.242.233,27662,PL,Studio WIK Sp z oo
-193.42.242.233,34885,PL,Studio WIK Sp z oo
-176.100.195.150,24826,PL,Studio WIK Sp z oo
-193.42.240.109,33084,PL,Studio WIK Sp z oo
-176.100.199.62,32911,PL,Studio WIK Sp z oo
-193.42.242.233,11210,PL,Studio WIK Sp z oo
-91.123.189.14,11781,PL,Firma Handlowa Giga Arkadiusz Kocma
-193.42.242.233,37927,PL,Studio WIK Sp z oo
-91.123.189.14,28718,PL,Firma Handlowa Giga Arkadiusz Kocma
-176.100.197.50,24024,PL,Studio WIK Sp z oo
-193.42.241.118,20357,PL,Studio WIK Sp z oo
-193.42.241.118,16019,PL,Studio WIK Sp z oo
-193.42.240.114,13049,PL,Studio WIK Sp z oo
-176.100.199.111,31061,PL,Studio WIK Sp z oo
-176.100.192.223,18358,PL,Studio WIK Sp z oo
-95.171.127.152,39804,PL,Sat Film Sp z oo
-193.42.240.31,32648,PL,Studio WIK Sp z oo
-185.188.147.79,443,PL,G-Core Labs SA
-146.59.94.159,443,US,OVHcloud
-83.218.125.145,37872,PL,Regionalna Telewizja Kablowa Spolka Jawna LIwansk
-31.129.22.77,443,PT,Global Connectivity Solutions Llp
-45.83.142.46,8000,CY,Stark Industries Solutions
-76.72.247.50,37456,PR,Neptuno Media
-45.67.34.89,8443,RO,Stark Industries Solutions
-86.122.138.225,16224,RO,Digi Romania
-79.119.218.239,26544,RO,Digi Romania
-45.11.181.82,1225,DE,M247 Europe
-82.76.135.51,22930,RO,Digi Romania
-46.214.239.133,23653,RO,Nextgen Communications
-46.214.239.133,35794,RO,Nextgen Communications
-5.15.27.245,16993,RO,Digi Romania
-194.68.44.27,81,RO,M247 Europe
-81.196.23.196,22988,RO,Digi Romania
-86.127.129.244,17086,RO,Digi Romania
-46.3.97.4,8080,SG,Sakura Link
-185.46.8.17,8000,RU,REGRU
-2.56.240.227,21506,RU,LLC Baxet
-87.228.3.217,443,RU,OOO Network of data-centers Selectel
-185.117.155.96,443,RU,I-servers
-213.171.25.53,443,RU,Cloudru
-217.73.63.121,443,RU,K2 Integration JSC
-45.150.239.76,2222,RU,Datacheap
-87.242.85.108,443,RU,Cloudru
-158.101.247.242,22343,SA,Oracle Cloud
-38.180.101.177,443,RS,M247 Europe
-38.180.101.48,443,RS,M247 Europe
-38.180.100.80,443,RS,M247 Europe
-38.180.17.54,443,RS,M247 Europe
-34.175.202.195,443,ES,Google Cloud
-89.29.147.20,28549,ES,Spotting Brands Technologies SL
-89.29.152.22,32688,ES,Spotting Brands Technologies SL
-89.29.239.133,10416,ES,TVAlmansa
-89.29.237.127,32955,ES,TVAlmansa
-89.29.239.159,14437,ES,TVAlmansa
-185.114.73.92,443,ES,First Server
-103.45.245.201,29016,ES,Kamatera Inc
-103.45.245.201,59889,ES,Kamatera Inc
-176.120.74.53,443,ES,Stark Industries Solutions
-45.86.229.226,443,ES,BlueVPS OU
-185.231.204.186,443,ES,Stark Industries Solutions
-91.149.242.110,443,ES,Baxet Group Inc
-89.29.239.133,16400,ES,TVAlmansa
-89.29.232.136,12483,ES,TVAlmansa
-89.29.232.136,30182,ES,TVAlmansa
-91.126.201.21,26958,ES,Adamo
-185.110.17.42,34834,ES,XFERA Moviles
-176.57.104.51,22181,ES,TVAlmansa
-176.57.107.76,13464,ES,TVAlmansa
-89.29.239.108,10637,ES,TVAlmansa
-185.110.19.18,31811,ES,XFERA Moviles
-38.180.52.83,443,ES,M247 Europe
-91.126.201.21,21629,ES,Adamo
-94.131.117.155,443,ES,Stark Industries Solutions
-89.29.233.146,18570,ES,TVAlmansa
-200.234.235.120,443,ES,Cloudi Nextgen Sl
-176.97.72.18,443,ES,M247 Europe
-45.136.196.236,443,ES,M247 Europe
-70.34.204.4,2096,SE,Vultr
-51.20.197.83,443,SE,Amazoncom
-129.151.204.91,443,SE,Oracle Cloud
-185.243.215.156,443,SE,MVPS
-51.21.48.77,443,SE,Amazoncom
-13.49.166.245,443,SE,Amazoncom
-65.20.112.189,8443,SE,Vultr
-70.34.205.2,12345,SE,Vultr
-70.34.200.17,8443,SE,Vultr
-94.131.115.230,443,SE,Stark Industries Solutions
-70.34.198.182,443,SE,Vultr
-51.20.99.157,443,SE,Amazoncom
-70.34.210.136,443,SE,Vultr
-95.164.33.149,443,SE,Stark Industries Solutions
-65.20.115.49,443,SE,Vultr
-89.169.35.112,443,SE,Aeza International
-37.221.126.218,1983,GB,Access2IT Group BV
-37.221.126.218,1980,GB,Access2IT Group BV
-94.131.98.31,443,SE,Stark Industries Solutions LTD
-188.126.76.5,443,SE,GleSYS Internet Services AB
-94.131.115.224,443,SE,Stark Industries Solutions
-77.221.141.222,443,SE,Aeza International
-94.228.164.251,2083,SE,Aeza International
-51.20.124.5,443,SE,Amazoncom
-172.232.144.24,443,SE,Akamai Connected Cloud
-45.91.171.209,443,SE,Kamatera Inc
-51.20.215.255,443,SE,Amazoncom
-188.93.140.125,443,SE,HostHatch
-37.252.8.221,443,SE,GleSYS Internet Services AB
-95.164.33.42,443,SE,Stark Industries Solutions
-37.221.126.218,1982,GB,Access2IT Group BV
-45.8.147.117,443,SE,Stark Industries Solutions LTD
-5.42.82.124,8081,SE,Aeza International
-89.169.35.188,443,NL,Aeza International
-79.141.174.13,8443,SE,HZ Hosting
-109.120.184.38,443,NL,Aeza International
-5.42.94.82,443,NL,Aeza International
-5.42.82.167,38355,SE,Aeza International
-89.169.35.173,443,NL,Aeza International
-217.196.103.191,14457,RU,Aeza International
-5.42.81.179,2095,NL,Aeza International
-70.34.220.212,2053,SE,Vultr
-45.82.80.96,443,SE,Internetport Sweden AB
-38.180.56.32,8443,SE,M247 Europe
-94.131.115.234,443,SE,Stark Industries Solutions
-13.50.211.86,443,SE,Amazoncom
-51.12.217.144,443,SE,Microsoft Azure
-176.97.77.76,443,SE,M247 Europe
-185.139.228.192,443,SE,Kamatera Inc
-185.139.228.126,443,SE,Kamatera Inc
-188.93.140.11,443,SE,HostHatch
-89.22.234.213,443,NL,Aeza International
-70.34.196.25,443,SE,Vultr
-38.180.161.11,443,CH,Private Layer
-94.131.12.218,443,CH,Stark Industries Solutions
-45.85.93.121,443,CH,Serva One
-91.245.225.69,443,CH,Big Data Host
-176.120.66.65,2083,CH,Stark Industries Solutions
-176.10.125.114,443,CH,Datasource
-45.85.93.57,443,CH,Serva One
-179.43.176.163,443,CH,Private Layer
-179.43.176.163,10443,CH,Private Layer
-179.43.144.10,8000,CH,Private Layer
-179.43.155.21,443,CH,Private Layer
-152.67.78.184,443,CH,Oracle Cloud
-45.85.93.51,443,CH,Serva One
-45.90.57.169,8443,CH,Green Floid
-91.192.102.92,443,CH,Datasource
-94.131.3.68,2095,CH,Stark Industries Solutions
-45.85.93.21,443,CH,Serva One
-94.131.3.68,2052,CH,Stark Industries Solutions
-45.85.93.62,443,CH,Serva One
-38.180.85.203,443,CH,Private Layer
-179.43.188.243,443,CH,Private Layer
-45.85.93.106,443,CH,Serva One
-37.128.252.140,443,TW,Akile
-37.128.252.113,31141,TW,Akari Networks
-188.253.6.210,443,TW,Akari Networks
-188.253.6.53,25884,TW,Akari Networks
-83.147.13.199,443,TW,Akari Networks
-188.253.6.127,28963,TW,Akari Networks
-212.115.54.199,30002,HK,Rainbow network
-103.137.63.5,46832,TW,Pittqiao Network Information CoLtd
-61.220.65.189,27114,TW,Chunghwa Telecom
-114.32.92.162,22452,TW,Chunghwa Telecom
-61.220.65.189,26832,TW,Chunghwa Telecom
-114.32.92.162,30750,TW,Chunghwa Telecom
-116.241.108.31,14440,TW,TBC
-182.233.85.185,28871,TW,Homeplus
-103.106.230.186,81,TW,BrainStorm Network
-118.163.37.32,81,TW,Chunghwa Telecom
-220.134.107.199,20000,TW,Chunghwa Telecom
-61.63.235.53,25957,TW,SaveCom Internation
-122.116.86.104,81,TW,Chunghwa Telecom
-140.120.44.31,14226,TW,National Chung Hsing University
-167.179.27.92,443,US,Aryaka Networks
-182.234.220.177,20302,TW,Homeplus
-182.234.220.177,16858,TW,Homeplus
-140.120.44.31,11449,TW,National Chung Hsing University
-123.205.124.131,11696,TW,Taiwan Infrastructure Network Technologie
-85.237.206.205,12678,TW,Akari Networks
-115.43.226.8,28602,TW,Homeplus
-85.237.206.205,443,TW,Akari Networks
-175.181.97.188,14785,TW,SeedNet
-59.120.116.28,34076,TW,Chunghwa Telecom
-103.159.207.168,2086,TW,Emagine Concept
-59.127.80.162,12224,TW,Chunghwa Telecom
-210.79.155.242,443,TW,Akari Networks
-59.120.116.28,34333,TW,Chunghwa Telecom
-103.159.207.172,2086,TW,Emagine Concept
-140.120.44.31,34355,TW,National Chung Hsing University
-103.159.206.159,32819,TW,Emagine Concept
-106.105.199.173,38309,TW,Hsin Yeong An Cable TV Co
-112.104.167.63,11873,TW,SeedNet
-103.159.207.168,2443,TW,Emagine Concept
-141.11.86.94,18333,TW,Akile
-116.241.116.184,20242,TW,TBC
-103.159.207.172,2443,TW,Emagine Concept
-210.66.107.202,28937,TW,SeedNet
-210.66.130.192,10470,TW,SeedNet
-61.222.146.15,28227,TW,Chunghwa Telecom
-202.39.212.181,25062,TW,Chunghwa Telecom
-202.39.212.181,18402,TW,Chunghwa Telecom
-60.248.63.88,31164,TW,Chunghwa Telecom
-202.39.212.181,18990,TW,Chunghwa Telecom
-220.134.107.199,13291,TW,Chunghwa Telecom
-220.134.107.199,11112,TW,Chunghwa Telecom
-59.120.123.247,10968,TW,Chunghwa Telecom
-219.84.50.2,29448,TW,Sony Network Taiwan
-27.105.105.244,13820,TW,Sony Network Taiwan
-60.249.114.181,26398,TW,Chunghwa Telecom
-182.233.85.185,10064,TW,Homeplus
-60.249.114.181,32003,TW,Chunghwa Telecom
-42.0.123.77,11608,TW,SeedNet
-220.135.202.250,81,TW,Chunghwa Telecom
-60.249.114.181,21574,TW,Chunghwa Telecom
-185.39.204.223,443,TR,Global Connectivity Solutions Llp
-78.135.110.164,443,TR,Onur Ekren
-85.117.239.54,4430,TR,Markahost Telekomunikasyon Ve Ticaret Sirketi
-45.90.89.244,1982,TR,DC Host
-212.64.215.22,8080,TR,COMNET FIBER ISTANBUL
-213.238.182.234,2096,TR,MarkaHost
-94.131.123.44,443,US,Stark Industries Solutions
-94.131.123.74,443,TR,Stark Industries Solutions LTD
-216.9.224.93,2053,TR,DC Host
-91.151.90.127,2055,TR,Teknosos Bilisim Hizmetleri Ve Tic Sti
-91.151.93.23,2055,TR,Teknosos Bilisim Hizmetleri Ve Tic Sti
-193.46.56.171,15465,TR,Stark Industries Solutions
-188.132.209.126,443,TR,Teknosos Bilisim Hizmetleri Ve Tic Sti
-216.9.224.93,2083,TR,DC Host
-84.32.230.202,443,TR,Mailbox Internet Hizmetleri Sti
-2.59.117.126,2053,TR,Poyraz Hosting Bilisim Hizmetleri
-91.151.90.109,443,TR,Teknosos Bilisim Hizmetleri Ve Tic Sti
-185.235.243.223,8443,MD,Stark Industries Solutions
-185.235.243.223,2096,MD,Stark Industries Solutions
-185.235.243.223,2053,MD,Stark Industries Solutions
-45.89.52.247,443,TR,Stark Industries Solutions LTD
-45.90.89.244,1980,TR,DC Host
-45.90.89.244,1983,TR,DC Host
-94.131.108.197,2057,TR,Stark Industries Solutions LTD
-154.53.166.178,443,TR,Mailbox Internet Hizmetleri Sti
-185.255.172.154,443,TR,Sef Bilisim Hizmetleri AS
-94.131.108.39,2054,TR,Stark Industries Solutions LTD
-38.180.171.199,443,TR,Scalaxy
-216.9.224.107,48385,TR,DC Host
-212.64.215.35,8080,TR,COMNET FIBER ISTANBUL
-188.132.183.166,443,TR,PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET SI
-154.205.148.134,2096,TR,Kaopu Cloud HK
-78.135.104.237,53788,TR,Comnet Bilgi Iletisim Teknolojileri Ticaret As
-94.131.108.39,2057,TR,Stark Industries Solutions LTD
-94.131.108.39,2055,TR,Stark Industries Solutions LTD
-62.133.63.211,443,TR,Global Connectivity Solutions Llp
-83.217.9.111,46184,TR,Global Connectivity Solutions Llp
-93.180.134.210,2053,TR,Tres Teknoloji AS
-185.113.223.232,8081,TR,Yoncu Bilisim Cozumleri LTD STI
-91.151.90.149,443,TR,Teknosos Bilisim Hizmetleri Ve Tic Sti
-84.32.230.70,9000,TR,Mailbox Internet Hizmetleri Sti
-94.131.108.197,2054,TR,Stark Industries Solutions LTD
-94.131.108.197,2055,TR,Stark Industries Solutions LTD
-62.133.63.86,8443,TR,Global Connectivity Solutions Llp
-109.61.43.7,8080,TR,G-Core Labs SA
-160.20.110.74,59100,TR,Teknobil Telekom
-160.20.110.74,28571,TR,Teknobil Telekom
-160.20.110.75,59100,TR,Teknobil Telekom
-83.217.9.99,4955,TR,Global Connectivity Solutions Llp
-160.20.110.75,28571,TR,Teknobil Telekom
-213.238.167.59,1982,US,Hurricane Electric IPv6 tunnel broker
-160.20.110.77,28571,TR,Teknobil Telekom
-78.135.104.120,53788,TR,Virtara Group Bilisim Teknolojileri Tic Ltd Sti
-160.20.110.77,59100,TR,Teknobil Telekom
-213.238.167.59,1983,US,Hurricane Electric IPv6 tunnel broker
-160.20.110.76,59100,TR,Teknobil Telekom
-213.238.167.59,1980,US,Hurricane Electric IPv6 tunnel broker
-160.20.110.76,28571,TR,Teknobil Telekom
-160.20.110.197,28571,TR,Teknobil Telekom
-160.20.110.197,59100,TR,Teknobil Telekom
-91.151.93.101,443,TR,Teknosos Bilisim Hizmetleri Ve Tic Sti
-188.132.232.17,8080,TR,Sunucun Bilgi Iletisim Teknolojileri Ve Ticaret Si
-103.231.75.237,2096,MD,Stark Industries Solutions
-103.231.75.237,2053,MD,Stark Industries Solutions
-216.9.224.160,443,TR,DC Host
-103.231.75.237,8443,MD,Stark Industries Solutions
-185.234.66.91,443,MD,Stark Industries Solutions
-78.135.104.121,108,TR,Virtara Group Bilisim Teknolojileri Tic Ltd Sti
-213.238.167.209,2083,TR,Teknosos Bilisim Hizmetleri
-195.16.74.98,443,TR,Stark Industries Solutions
-94.131.123.242,443,US,Stark Industries Solutions
-194.87.39.106,443,TR,Baxet Group Inc
-62.60.236.110,443,FI,Aeza International
-38.180.11.201,443,AE,M247 Europe
-129.151.148.35,443,AE,Cloudflare Warp
-193.123.66.187,34501,AE,Cloudflare Warp
-109.61.42.25,6533,AE,G-Core Labs SA
-109.61.42.25,2059,AE,G-Core Labs SA
-129.151.149.168,25061,AE,Cloudflare Warp
-109.61.42.25,888,AE,G-Core Labs SA
-109.61.42.25,2049,AE,G-Core Labs SA
-89.31.120.36,41358,AE,M247 Europe
-89.31.120.79,56531,AE,M247 Europe
-176.97.66.175,443,AE,M247 Europe
-109.61.42.53,8081,AE,G-Core Labs SA
-85.237.211.244,2053,AE,Zenlayer
-84.235.245.18,34501,AE,Oracle Cloud
-159.100.198.106,443,US,Aryaka Networks
-20.74.223.241,443,US,1&1 Internet AG
-139.185.46.148,31135,AE,Oracle Cloud
-139.185.39.237,48008,AE,Oracle Cloud
-139.185.39.214,11759,AE,Oracle Cloud
-176.97.67.209,443,AE,M247 Europe
-109.61.95.21,8080,GB,Datacamp
-5.144.182.149,443,GB,OVHcloud
-101.36.97.226,587,GB,Ucloud Information Technology Hk
-45.153.185.29,443,GB,MVPS
-213.165.88.177,443,GB,1&1 Internet AG
-185.126.68.124,587,GB,M247 Europe
-178.128.161.11,443,GB,Digital Ocean
-64.176.183.167,2099,GB,Vultr
-64.176.183.167,8083,GB,Vultr
-64.176.183.167,8880,GB,Vultr
-91.228.10.7,443,GB,Stark Industries Solutions
-45.76.143.208,443,GB,Vultr
-45.76.143.208,10000,GB,Vultr
-5.180.30.74,443,US,Stark Industries Solutions
-147.75.236.96,443,US,Aryaka Networks
-64.176.186.85,2099,GB,Vultr
-64.176.186.85,8083,GB,Vultr
-64.176.186.85,8880,GB,Vultr
-3.8.172.27,443,GB,Amazoncom
-185.66.164.51,443,GB,LDeX Connect
-213.52.129.208,587,GB,Akamai Connected Cloud
-165.22.116.164,443,GB,Digital Ocean
-45.61.139.35,51025,GB,BL Networks GB
-45.76.139.135,2053,GB,Vultr
-45.140.167.225,2053,GB,Stark Industries Solutions
-45.140.167.225,2096,GB,Stark Industries Solutions
-45.140.167.225,8443,GB,Stark Industries Solutions
-5.180.30.112,8443,GB,Stark Industries Solutions
-5.180.30.112,2096,GB,Stark Industries Solutions
-45.140.167.225,443,GB,Stark Industries Solutions
-5.180.30.112,443,GB,Stark Industries Solutions
-5.180.30.112,2053,GB,Stark Industries Solutions
-45.76.134.147,2053,GB,Vultr
-51.77.112.1,443,GB,OVHcloud
-94.237.50.154,443,GB,UpCloud
-149.5.52.121,587,GB,Cogent Communications
-3.8.212.197,443,GB,Amazoncom
-62.112.221.17,2087,GB,G-Core Labs SA
-188.166.139.174,443,GB,Digital Ocean
-96.9.214.108,26513,GB,UK Dedicated Servers
-178.62.4.103,443,GB,Digital Ocean
-45.140.167.7,443,GB,Stark Industries Solutions
-91.199.32.166,443,HR,OVHcloud
-45.63.97.160,51548,GB,Vultr
-95.179.202.128,2083,GB,Vultr
-212.38.166.47,443,GB,Iomart Cloud Services
-185.127.17.163,1298,GB,Kamatera Inc
-185.127.17.163,4903,GB,Kamatera Inc
-172.236.28.15,22222,GB,Akamai Connected Cloud
-77.91.101.141,443,GB,Stark Industries Solutions
-138.68.170.81,2053,GB,Digital Ocean
-138.68.170.81,8443,GB,Digital Ocean
-185.127.17.214,1298,GB,Kamatera Inc
-185.127.17.214,4903,GB,Kamatera Inc
-185.218.100.168,2083,GB,Hyperhost Solutions
-159.65.215.239,443,GB,Digital Ocean
-132.226.212.60,443,US,Tempest-hosting
-95.179.197.216,443,GB,Vultr
-130.185.249.100,443,GB,Clouvider
-54.36.162.129,58352,IR,Asre Dadeha Asiatech
-57.128.171.28,2087,GB,OVHcloud
-93.114.133.159,443,GB,MVPS
-213.1.145.50,443,GB,BT
-51.89.128.93,12122,GB,OVHcloud
-51.89.128.93,44004,GB,OVHcloud
-149.5.52.148,587,GB,Cogent Communications
-132.226.210.160,443,DE,Zenlayer
-91.228.10.234,8443,GB,Stark Industries Solutions
-198.244.232.200,443,GB,OVHcloud
-213.255.246.172,2087,GB,Clouvider
-193.138.195.74,2041,GB,Hostgnome
-136.244.76.71,2053,GB,Vultr
-136.244.76.71,8443,GB,Vultr
-94.131.122.162,2052,US,Stark Industries Solutions
-95.164.37.32,443,US,Stark Industries Solutions
-95.164.37.32,2053,US,Stark Industries Solutions
-95.164.37.32,2096,US,Stark Industries Solutions
-95.164.37.32,8443,US,Stark Industries Solutions
-95.179.236.51,443,GB,Vultr
-5.61.60.197,8443,GB,M247 Europe
-104.128.190.65,443,GB,UK Dedicated Servers
-159.65.91.203,8080,GB,Digital Ocean
-213.255.246.254,2083,GB,Clouvider
-118.26.104.15,587,GB,Ucloud Information Technology Hk
-54.36.162.122,443,GB,OVHcloud
-89.107.57.218,888,GB,Atlanticnet
-89.107.57.218,2049,GB,Atlanticnet
-89.107.57.218,2059,GB,Atlanticnet
-89.107.57.218,6523,GB,Atlanticnet
-95.164.119.106,443,US,Stark Industries Solutions
-152.32.157.145,587,GB,Ucloud Information Technology Hk
-57.128.168.191,2096,GB,OVHcloud
-57.128.168.191,25218,GB,OVHcloud
-45.61.138.147,443,GB,BL Networks GB
-198.244.169.93,12122,GB,OVHcloud
-198.244.169.93,44004,GB,OVHcloud
-130.162.167.47,443,DE,Zenlayer
-150.230.116.183,443,DE,Zenlayer
-159.65.94.176,8080,GB,Digital Ocean
-89.107.61.214,888,GB,Atlanticnet
-89.107.61.214,2059,GB,Atlanticnet
-57.128.171.76,443,GB,OVHcloud
-198.244.148.214,443,GB,OVHcloud
-103.13.208.242,443,GB,Kamatera Inc
-94.131.122.185,443,GB,Stark Industries Solutions
-94.131.122.185,2053,GB,Stark Industries Solutions
-94.131.122.185,2096,GB,Stark Industries Solutions
-94.131.122.185,8443,GB,Stark Industries Solutions
-104.207.154.115,57126,US,Vultr
-154.29.147.199,443,US,Netlab-sdn
-129.213.22.27,11650,US,Oracle Cloud
-172.245.118.118,10177,US,ColoCrossing
-34.83.245.149,443,US,Google Cloud
-154.12.38.207,443,US,Netlab-sdn
-142.171.138.197,30580,US,Multacom Corporation
-142.171.138.197,30550,US,Multacom Corporation
-45.150.65.239,10013,US,PQ HOSTING SRL
-192.227.247.75,443,US,ColoCrossing
-129.153.91.86,3701,US,Oracle Cloud
-91.149.239.122,443,US,Baxet Group Inc
-38.95.112.127,587,US,Zhejiang Aiyun Network Technology Co
-172.96.209.184,53849,US,IT7 Networks Inc
-154.12.56.179,35467,US,Netlab-sdn
-107.175.245.42,54019,US,ColoCrossing
-38.114.100.79,443,US,Baxet Group Inc
-38.76.145.165,443,US,Cogent Communications
-38.76.144.140,13514,US,Cogent Communications
-38.126.44.184,1443,US,Imagingbay
-142.171.76.55,8898,US,Multacom Corporation
-156.154.245.83,443,US,Securityservices
-104.168.94.30,15469,US,HostPapa
-129.153.127.204,20756,US,Oracle Cloud
-45.63.52.239,49181,US,Vultr
-144.34.173.175,10082,US,IT7 Networks Inc
-107.148.146.158,47806,US,Peg Tech
-64.44.86.201,44759,US,Nexeon Technologies
-154.17.29.80,50235,US,DMIT
-104.224.176.74,23244,US,IT7 Networks
-129.146.114.239,44039,US,Oracle Cloud
-104.234.60.180,443,CA,QuadraNet
-147.75.230.207,443,US,Aryaka Networks
-129.154.254.254,8443,IN,Oracle Cloud
-129.154.46.115,443,IN,Cloudflare Warp
-103.111.114.79,443,IN,Melbikomas UAB
-172.232.112.240,587,IN,Akamai Connected Cloud
+103.6.207.108,8080,ID,PT Pusat Media Indonesia
+103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
+103.133.223.50,2096,ID,Cloud Teknologi Nusantara
+103.133.223.52,2096,ID,Cloud Teknologi Nusantara
+103.133.223.51,2096,ID,Cloud Teknologi Nusantara
+147.139.245.56,443,ID,Alibaba
+147.139.243.188,587,ID,Alibaba
+172.232.239.151,587,ID,Akamai Connected Cloud
+172.232.239.249,587,ID,Akamai Connected Cloud
+172.232.239.175,587,ID,Akamai Connected Cloud
+172.232.239.134,587,ID,Akamai Connected Cloud
+172.232.239.147,587,ID,Akamai Connected Cloud
+111.95.40.14,32414,ID,Linknet Fastnet
+38.60.171.111,587,ID,Kaopu Cloud
+43.133.145.156,53136,ID,Tencent cloud computing
+101.50.0.114,8443,ID,PT Beon Multimedia
+203.194.112.119,2053,ID,Rumahweb
+35.219.50.99,443,ID,Google LLC
+35.219.15.90,443,ID,Google LLC
+3.1.94.232,443,SG,Amazoncom
+54.251.167.101,443,SG,Amazoncom
+47.74.254.191,8900,SG,Alibaba
+207.148.68.228,80,SG,Vultr
+139.180.144.170,666,SG,Vultr
+45.77.171.102,3128,SG,Vultr
+8.219.185.134,22512,SG,Alibaba
+51.79.158.126,443,SG,OVH Hosting
+158.178.241.138,45001,SG,Oracle Cloud
+146.235.18.248,45137,SG,Oracle Cloud
+138.2.69.100,10002,SG,Oracle Cloud
+129.150.58.86,57621,SG,Oracle Cloud
+138.2.89.238,43254,SG,Oracle Cloud
+43.156.16.213,31528,SG,Tencent cloud computing
+193.239.166.244,443,SG,First Server
+54.169.229.188,443,SG,Amazoncom
+103.180.161.10,587,SG,HONG KONG Megalayer Technology Co
+139.180.136.178,29661,SG,Vultr
+15.235.187.177,587,SG,OVHcloud
+157.230.240.71,9532,SG,Digital Ocean
+139.180.136.178,29806,SG,Vultr
+168.138.166.213,10500,SG,Oracle Cloud
+43.134.239.19,443,SG,Tencent cloud computing
+213.35.108.135,12596,SG,Oracle Cloud
+168.138.183.48,9090,SG,Oracle Cloud
+152.69.212.80,587,SG,Oracle Cloud
+47.245.113.31,40159,SG,Alibaba
+94.237.75.31,62174,SG,UpCloud
+188.166.255.195,8443,SG,Digital Ocean
+159.223.34.97,4433,SG,Digital Ocean
+47.245.113.31,40420,SG,Alibaba
+194.127.193.240,50791,SG,Leaseweb Asia
+8.219.50.5,29220,SG,Alibaba
+188.166.255.195,443,SG,Digital Ocean
+8.222.143.82,24245,SG,Alibaba
+161.117.249.114,2025,SG,Alibaba Cloud
+8.222.243.73,26385,SG,Alibaba
+47.245.113.31,29546,SG,Alibaba
+47.236.246.163,14108,SG,Alibaba
+47.236.173.166,587,SG,Alibaba
+178.128.80.43,443,SG,Digital Ocean
+168.138.160.54,19081,SG,Oracle Cloud
+158.178.225.124,37461,SG,Oracle Cloud
+138.2.74.219,28616,SG,Cloudflare Warp
+158.178.225.124,12934,SG,Oracle Cloud
+129.150.50.63,443,SG,Oracle Cloud
+158.178.225.124,53618,SG,Oracle Cloud
+158.178.225.124,37497,SG,Oracle Cloud
+15.235.162.49,443,SG,OVHcloud
+4.193.111.126,40809,SG,Microsoft Azure
+103.180.161.69,587,SG,HONG KONG Megalayer Technology Co
+5.223.41.42,443,SG,Hetzner Online
+119.81.201.154,9089,SG,SoftLayer Technologies
+103.180.161.123,587,SG,HONG KONG Megalayer Technology Co
+47.245.95.160,1443,SG,Alibaba
+194.36.178.132,443,SG,Neapol Group Ltd
+139.180.131.125,10005,SG,Vultr
+194.127.193.124,24467,SG,Leaseweb Asia
+167.71.194.185,8443,SG,Digital Ocean
+47.236.106.39,34241,SG,Alibaba
+47.236.22.194,52324,SG,Alibaba
+43.156.56.22,7676,SG,Tencent cloud computing
+139.162.33.248,587,SG,Akamai Connected Cloud
+138.2.109.23,587,SG,Oracle Cloud
+129.150.49.58,18650,SG,Oracle Cloud
+138.2.95.61,1111,SG,Oracle Cloud
+89.28.239.168,30981,SG,ByteVirt
+103.40.11.26,587,SG,HONG KONG Megalayer Technology Co
+62.72.46.14,8443,SG,Contabo Asia Private
+47.236.7.98,587,SG,Cloudflare Warp
+47.236.119.190,51342,SG,Alibaba
+8.222.159.112,30667,SG,Alibaba
+47.236.25.107,27903,SG,Alibaba
+146.235.16.65,15174,SG,Oracle Cloud
+129.150.36.188,53435,SG,Oracle Cloud
+51.79.254.182,443,SG,OVH Hosting
+138.2.95.33,17465,SG,Oracle Cloud
+89.34.227.98,8080,SG,ByteVirt
+8.219.237.57,31523,SG,Alibaba
+8.219.254.209,41101,SG,Alibaba
+8.219.197.113,45714,SG,Alibaba
+139.180.215.77,57878,SG,Vultr
+143.42.68.97,17055,SG,Akamai Connected Cloud
+47.236.181.185,8443,SG,Alibaba
+47.236.119.25,55567,SG,Alibaba
+8.222.129.175,58808,SG,Alibaba
+213.35.107.73,443,SG,Oracle Cloud
+192.53.113.156,587,SG,Akamai Connected Cloud
+139.162.48.174,10000,SG,Akamai Connected Cloud
+138.2.89.88,25906,SG,Oracle Cloud
+138.2.89.88,27405,SG,Oracle Cloud
+38.181.70.7,16240,SG,Eons Data Communications
+194.36.179.237,443,SG,Neapol Group Ltd
+52.77.19.190,443,SG,Amazoncom
+146.190.111.165,443,SG,Digital Ocean
+143.198.213.197,443,SG,Digital Ocean
+45.77.36.40,443,SG,Vultr
+8.219.163.164,36261,SG,Alibaba
+47.236.157.249,587,SG,Cloudflare Warp
+143.198.213.197,8443,SG,Digital Ocean
+140.245.61.163,39863,SG,Oracle Cloud
+168.138.170.211,53702,SG,Oracle Cloud
+43.245.198.240,587,SG,IPTELECOM Global
+138.2.77.179,30018,SG,Oracle Cloud
+118.189.215.123,8443,SG,M1
+64.176.84.144,81,SG,Vultr
+195.114.193.161,443,SG,Datacamp
+45.32.100.46,13802,SG,Vultr
+45.76.183.217,49292,SG,Vultr
+8.219.59.208,11178,SG,Alibaba
+15.235.197.205,587,SG,OVHcloud
+8.222.220.81,25435,SG,Alibaba
+47.236.20.125,51228,SG,Alibaba
+185.126.80.215,25565,SG,Akile
+168.138.184.172,443,SG,Oracle Cloud
+168.138.178.6,19990,SG,Oracle Cloud
+185.114.78.230,443,US,Aryaka Networks
+138.2.106.166,443,SG,Oracle Cloud
+47.236.195.221,443,SG,Alibaba
+143.198.85.62,18163,SG,Digital Ocean
+143.198.85.62,49270,SG,Digital Ocean
+206.206.76.139,443,SG,OVHcloud
+152.42.172.170,8443,SG,Digital Ocean
+143.198.85.62,41536,SG,Digital Ocean
+168.138.162.187,443,SG,Oracle Cloud
+8.219.1.169,443,SG,Alibaba
+47.236.110.238,443,SG,Alibaba
+209.97.172.173,443,SG,Digital Ocean
+185.103.255.239,443,NL,First Server
+192.236.249.99,443,US,Hostwinds LLC
+192.236.193.108,443,US,Hostwinds LLC
+46.28.234.138,8443,NL,EUROHOSTER
+5.255.102.177,443,NL,The Infrastructure Group
+103.137.248.17,443,NL,Clodo Cloud Service Co
+142.93.131.94,443,NL,Digital Ocean
+86.107.197.161,443,NL,MVPS
+206.189.14.85,443,NL,Digital Ocean
+194.164.32.50,443,NL,Servers Tech Fzco
+212.34.153.65,443,NL,Servers Tech Fzco
+77.238.231.179,443,NL,Servers Tech Fzco
+89.110.118.149,443,NL,Servers Tech Fzco
+185.216.13.253,443,NL,Tulip Group ISP
+81.22.132.219,443,NL,Serva One
+92.51.44.177,8000,RU,TimeWeb
+81.31.245.22,443,IR,TimeWeb
+185.94.165.85,443,NL,First Server
+93.113.171.31,443,NL,Baxet Group Inc
+147.45.134.93,42477,NL,TimeWeb
+147.45.134.93,443,NL,TimeWeb
+147.45.134.93,35089,NL,TimeWeb
+147.45.134.93,53017,NL,TimeWeb
+192.236.249.88,443,US,Hostwinds LLC
+136.244.99.185,36950,NL,Vultr
+212.193.1.208,443,NL,Baxet Group Inc
+23.254.226.110,443,US,Hostwinds LLC
+24.144.79.45,443,NL,Digital Ocean
+146.190.30.138,443,NL,Digital Ocean
+185.164.163.185,443,EE,Digital City FZE
+109.107.185.15,443,NL,Servers Tech Fzco
+89.34.230.142,8000,NL,RoyaleHosting
+85.203.26.26,119,NL,IP Connect
+188.227.86.12,30718,NL,Itglobalcom Nl
+5.35.69.122,443,NL,Servers Tech Fzco
+5.35.38.21,8443,NL,Servers Tech Fzco
+89.110.126.196,443,NL,Servers Tech Fzco
+5.35.38.21,2053,NL,Servers Tech Fzco
+194.87.62.236,443,NL,Baykov Ilya Sergeevich
+2.59.183.197,443,NL,SERVA ONE LTD
+212.192.9.179,443,NL,Baykov Ilya Sergeevich
+5.35.46.16,443,NL,Servers Tech Fzco
+185.103.254.144,443,NL,Neapol Group
+138.124.30.8,443,NL,ibsystems
+178.62.236.16,80,NL,Digital Ocean
+85.209.153.180,443,US,Stark Industries Solutions
+37.1.204.28,443,NL,Scalaxy
+89.42.142.220,443,NL,SERVA ONE LTD
+185.223.93.86,443,NL,King Servers
+94.131.106.73,2055,NL,PQ HOSTING SRL
+194.246.81.230,443,NL,Servers Tech Fzco
+212.34.153.46,443,NL,Servers Tech Fzco
+195.200.26.238,433,NL,Servers Tech Fzco
+163.5.207.102,443,NL,SERVA ONE LTD
+176.222.52.212,443,NL,Hostkey
+46.8.231.125,443,NL,CGI GLOBAL LIMITED
+195.133.75.188,443,NL,Baykov Ilya Sergeevich
+81.22.132.183,443,NL,Serva One
+77.238.226.230,443,NL,Servers Tech Fzco
+94.131.106.73,2054,NL,PQ HOSTING SRL
+147.45.135.207,443,NL,TimeWeb
+51.15.47.222,3443,NL,Scaleway
+66.151.42.104,443,NL,Internap Corporation
+88.210.13.32,443,NL,Servers Tech Fzco
+185.244.218.119,1992,NL,Podaon SIA
+185.103.255.196,443,NL,First Server
+185.244.218.119,1993,NL,Podaon SIA
+185.244.218.119,1999,NL,Podaon SIA
+185.244.218.119,2768,NL,Podaon SIA
+185.244.218.119,1995,NL,Podaon SIA
+185.244.218.119,2040,NL,Podaon SIA
+185.244.218.119,2000,NL,Podaon SIA
+192.236.249.94,443,US,Hostwinds LLC
+185.244.218.119,1990,NL,Podaon SIA
+45.156.23.250,443,NL,CGI GLOBAL LIMITED
+195.245.113.28,443,BG,Friendhosting LTD
+185.242.86.83,443,NL,Stark Industries Solutions
+194.147.149.55,443,NL,Argotel LTD
+5.35.39.64,443,NL,Servers Tech Fzco
+89.110.80.173,443,NL,Servers Tech Fzco
+5.35.71.109,443,NL,Servers Tech Fzco
+5.206.227.243,41086,UA,BlazingFast
+172.233.40.30,8083,NL,Akamai Connected Cloud
+185.244.218.119,3135,NL,Podaon SIA
+82.115.7.15,6000,NL,Sia Veesp
+206.189.102.194,443,NL,Digital Ocean
+212.22.74.89,443,NL,Fortis
+194.147.33.13,443,NL,Baykov Ilya Sergeevich
+5.39.219.35,443,NL,Hostkey
+185.130.225.64,443,NL,Hostkey
+66.151.42.239,443,NL,Internap Corporation
+37.1.206.147,443,NL,Scalaxy
+45.156.23.200,443,NL,CGI GLOBAL LIMITED
+81.22.132.44,443,NL,Serva One
+38.180.121.147,443,NL,Scalaxy
+5.35.38.242,443,NL,Servers Tech Fzco
+195.200.26.16,443,NL,Servers Tech Fzco
+174.138.8.21,443,NL,Digital Ocean
+89.110.122.3,443,NL,Servers Tech Fzco
+89.110.65.104,443,NL,Servers Tech Fzco
+193.32.178.49,443,NL,ibsystems
+92.119.114.145,2083,NL,Podaon SIA
+213.183.51.8,443,NL,Melbikomas UAB
+23.94.219.189,443,NL,ColoCrossing
+92.119.114.145,2087,NL,Podaon SIA
+68.183.10.184,8443,NL,Digital Ocean
+89.110.66.211,443,NL,Servers Tech Fzco
+89.110.100.115,443,NL,Servers Tech Fzco
+109.71.246.196,443,NL,TimeWeb
+195.123.219.254,1445,NL,Green Floid
+198.16.111.3,2096,NL,Fdcservers
+185.130.47.87,443,NL,Privex
+5.45.92.234,443,NL,Scalaxy
+195.54.175.222,41234,NL,Scalaxy
+185.117.75.62,443,NL,Host Sailor
+37.1.218.117,443,NL,Scalaxy
+128.199.41.252,443,NL,Digital Ocean
+104.248.192.81,443,NL,Digital Ocean
+89.110.125.223,443,NL,Servers Tech Fzco
+77.238.243.49,443,NL,Servers Tech Fzco
+46.17.97.246,433,NL,Hostkey
+89.110.104.192,443,NL,Servers Tech Fzco
+192.236.249.103,443,US,Hostwinds LLC
+81.22.132.136,443,NL,Serva One
+77.238.251.251,443,NL,Servers Tech Fzco
+45.144.154.64,443,NL,Individual Entrepreneur Anton Levin
+193.37.68.10,17283,NL,Individual Entrepreneur Anton Levin
+77.238.240.22,8443,NL,Servers Tech Fzco
+185.130.225.114,443,NL,Hostkey
+147.45.145.225,443,NL,TimeWeb
+193.37.68.10,22518,NL,Individual Entrepreneur Anton Levin
+31.44.0.68,25,NL,Itglobalcom Nl
+192.236.249.93,443,US,Hostwinds LLC
+45.91.169.228,443,NL,Kamatera Inc
+2.59.183.187,11,NL,SERVA ONE LTD
+2.59.183.221,443,NL,SERVA ONE LTD
+93.185.163.186,7102,DE,netcup
+93.185.163.186,3103,DE,dataforest
+89.110.109.64,443,NL,Servers Tech Fzco
